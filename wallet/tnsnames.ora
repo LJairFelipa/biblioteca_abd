@@ -1,0 +1,12 @@
+bibliotecabd_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g461cd96e27cb6b_bibliotecabd_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bibliotecabd_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g461cd96e27cb6b_bibliotecabd_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bibliotecabd_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g461cd96e27cb6b_bibliotecabd_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bibliotecabd_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g461cd96e27cb6b_bibliotecabd_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bibliotecabd_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g461cd96e27cb6b_bibliotecabd_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
